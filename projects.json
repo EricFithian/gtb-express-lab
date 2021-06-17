@@ -1,13 +1,13 @@
 [
     {
         "name": "project1",
-        "live": "http://app.heroku.com/whatever",
+        "live": "http://reddit.com",
         "git": "https://github.com/LearnWebCode/json-example/blob/master/animals-1.json",
-        "image": "https://www.organicauthority.com/live-grow/15-fantastic-diy-pet-projects-for-your-felines-and-fidos"
+        "image": "https://pngimg.com/image/30546"
     },
     {
         "name": "project2",
-        "live": "http://app.netlify.com/whatever",
+        "live": "http://espn.com",
         "git": "https://github.com/LearnWebCode/json-example/blob/master/pets-data.json",
         "image": "https://imgur.com/gallery/SazaHUq"
     }
