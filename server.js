@@ -2,6 +2,8 @@
 const express = require("express");
 const cors = require("cors");
 
+// More fun updates because they're the best :)
+
 // Import JSON files
 const projects = require("./projects.json");
 const about = require("./about.json");
